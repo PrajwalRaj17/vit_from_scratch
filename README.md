@@ -9,4 +9,4 @@ Positional encoding — injects token-order information, since attention is othe
 Encoder block, patch embedding, and the full ViT.
 
 ## Validation:
-my MultiheadAttention was verified against PyTorch's nn.MultiheadAttention, matching to a max difference of 1e-07 (floating-point equivalent).
+My MultiheadAttention was verified against PyTorch's nn.MultiheadAttention, matching to a max difference of 1e-07 (floating-point equivalent).
